@@ -13,7 +13,7 @@ The Animal Crossing Character Randomizer tool that allows you to randomly retrie
 
 ## Demo
 
-You can check out a live demo of the Animal Crossing API in action [here](link_to_live_demo).
+You can check out a live demo of the Animal Crossing API in action [here](https://quiet-swan-ecb4f3.netlify.app/).
 
 ## How It's Made:
 
@@ -40,4 +40,4 @@ For more details, please refer to the [ACNH API documentation](https://acnhapi.c
 
 ## Acknowledgments
 
-Special thanks to [ACNH API](https://github.com/alexislours/ACNHAPI) for the core Animal Crossing API that this project is uses.
+Special thanks to [ACNH API](https://github.com/alexislours/ACNHAPI) for the core Animal Crossing API that this project uses.
