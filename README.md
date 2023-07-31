@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Animal Crossing Character Randomizer tool that allows you to randomly retrieve character information for all the animals in the popular game, Animal Crossing.
+An Animal Crossing Character Randomizer tool that allows you to randomly retrieve character information for all the animals in the popular game, Animal Crossing.
 
 ## Features
 
